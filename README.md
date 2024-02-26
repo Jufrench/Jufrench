@@ -1,5 +1,5 @@
-## Me, at code reviews...
-<img src="https://media.giphy.com/media/DzzdoIlW38Ody/giphy.gif">
+#### omw to wrie sum code
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFybjU5dnRwZ3pjaWFmN3JuZDY2eDhtNm9udXZ6ZzVjaHFwa2JidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vznMJFViyp8mLy1xr/giphy-downsized.gif">
 
 <!--
 **Jufrench/Jufrench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
