@@ -1,4 +1,5 @@
-### Hi there 👋
+## Me, at code reviews...
+<img src="https://media.giphy.com/media/DzzdoIlW38Ody/giphy.gif">
 
 <!--
 **Jufrench/Jufrench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
