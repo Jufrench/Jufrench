@@ -1,4 +1,4 @@
-#### omw to wrie sum code
+#### omw to write sum code
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFybjU5dnRwZ3pjaWFmN3JuZDY2eDhtNm9udXZ6ZzVjaHFwa2JidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vznMJFViyp8mLy1xr/giphy-downsized.gif">
 
 <!--
